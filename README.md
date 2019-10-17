@@ -30,7 +30,7 @@
 
 # Eficiência vs Inovação
 - Reinventar
-- A eficiência mata a inovação todo dia. Eficiência é fazer melhor aquilo que eu já faço (para o salário, mas se exauri)
+- A eficiência mata a inovação todo dia. Eficiência é fazer melhor aquilo que eu já faço (paga o salário, mas se exauri)
 
 # Inovação vs Invenção
 - Inovação é a aplicação de uma ideia nova ou método novo para gerar **resultado**
