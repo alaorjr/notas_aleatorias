@@ -27,6 +27,9 @@
 - 1865-1967: Fábrica de pepel, madereira, produzia pneus e botas de borracha
 -	1967-1990: Entrou no setor das redes, rádio, TV e Telefonia móvel (final dadécada de 80)
   - O primeiro dispositivo móvel totalmente portátil da Nokia (depois do telefone de automóvel Mobira Senator de 1982) foi o Mobira Cityman 900 em 1987
+  
+# Blackberry
+- ...
 
 # Eficiência vs Inovação
 - Reinventar
