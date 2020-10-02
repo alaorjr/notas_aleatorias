@@ -57,3 +57,13 @@
 - Mas antes de ser bottom-up deve ser top-down com apoio claro da liderança
 - Tem que acreditar e colocar recursos
 - Definir o foco, trabalhar com temáticas bem definidas
+
+# Data Lake (DL)
+- Guardar todo tipo de dados que você vai utilizar algum dia ou posso utilizar algum dia (André Sionek)
+- Armazenar dados que vão além do armazenamento tradicional (DW)(Maikel Penz)
+- ERROR: Quando começou data lake o pessoal quiz migrar DW para o DL. É preciso pensar de forma difrente.
+- DW precisa saber o que você quer entregar. Esta mais próximos da apresentação.
+- No DL vc vai armazenar informações que depois você vai analisar para descobrir como tirar valor deles. Infra para o DW
+- DL você guarda os dados em seu estado bruto/nativo/desestruturados  e que você só define o schema quando você precisa consumir
+- https://medium.com/data-hackers/o-que-%C3%A9-data-lake-data-hackers-podcast-29-c2e8484e16ec
+-
